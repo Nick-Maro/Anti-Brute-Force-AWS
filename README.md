@@ -61,12 +61,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Edit `brute_force_tor.py` to set the URL as explained above.
+Edit `bruteforce.py` to set the URL as explained above.
 
 Run the brute-force simulation:
 
 ```bash
-python brute_force_tor.py
+python bruteforce.py
 ```
 
 ## AWS Lambda Function
