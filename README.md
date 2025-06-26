@@ -84,7 +84,7 @@ Ensure dependencies and environment variables are configured as needed.
 
 ## Legal Warning
 
-⚠️ **Unauthorized testing or use against systems you do not own or have permission to test is illegal and may lead to legal consequences. Use only in controlled, authorized environments.**
+**Unauthorized testing or use against systems you do not own or have permission to test is illegal and may lead to legal consequences. Use only in controlled, authorized environments.**
 
 ## Additional Documentation
 
